@@ -1,1 +1,1 @@
-Public issue tracker for https://marklenser.com/5e
+Public issue tracker for https://marklenser.com/rpg
