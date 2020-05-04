@@ -1,1 +1,1 @@
-Public issue tracker for https://www.kryxrpg.com/rpg
+Public issue tracker for https://www.kryxrpg.com
