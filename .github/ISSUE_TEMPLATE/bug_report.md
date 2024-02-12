@@ -11,7 +11,7 @@ assignees: ''
 A clear and concise description of what the bug is. Please use metric units and 2d10 when describing issues as those are the system's standards.
 
 **Link**
-Like the page where the error occurs.
+Link the page where the error occurs.
 
 **To Reproduce**
 If applicable, steps to reproduce the behavior:
